@@ -4,7 +4,7 @@ public class InterfaceChild implements TestInterface {
 
 	@Override
 	public void navigate() {
-		
+	System.out.prinln("hello");	
 	}
 	
 	@Override
