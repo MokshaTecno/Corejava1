@@ -15,6 +15,8 @@ public class Calculator {
 		System.out.println("result=");
 		// TODO Auto-generated method stub
 
+		System.out.println("moksha");
+
 	}
 
 }
