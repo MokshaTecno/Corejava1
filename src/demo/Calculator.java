@@ -15,6 +15,7 @@ public class Calculator {
 		double side =scan.nextDouble();
 		System.out.println("enter base");
 		double height=scan.nextDouble();
+#good afternoon
 		int result;
 		System.out.println("result=");
 		// TODO Auto-generated method stub
