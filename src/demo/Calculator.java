@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculator {
 
 	public static void main(String[] args) {
-		
+		System.out.println("Moulya");
 		System.out.println("enter side of square");
 		
 		Scanner scan=new Scanner(System.in);
