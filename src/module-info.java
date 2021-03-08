@@ -6,7 +6,7 @@ module Corejava {
 System.out.println("moulya");
 
 sop(hfjdhj);
-
+S.o,p("good morning");
 	}
 
 }
