@@ -1,2 +1,4 @@
 module Corejava {
+
+System("moksha");
 }
