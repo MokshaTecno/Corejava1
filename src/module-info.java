@@ -7,6 +7,7 @@ System.out.println("moulya");
 
 sop(hfjdhj);
 S.o,p("good morning");
+		s.o.p("good evening");
 	}
 
 }
